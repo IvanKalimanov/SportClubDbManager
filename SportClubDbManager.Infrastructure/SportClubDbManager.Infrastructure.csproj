@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+
+    <ProjectReference Include="..\SportClubDbManager.Data\SportClubDbManager.Data.csproj" />
+
+    <ProjectReference Include="..\SportClubDbManager.SharedKernel\SportClubDbManager.SharedKernel.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SportClubDbManager.Core\SportClubDbManager.Core.csproj" />
+    <ProjectReference Include="..\SportClubDbManager.Infrastructure\SportClubDbManager.Infrastructure.csproj" />
+    <ProjectReference Include="..\SportClubDbManager.SharedKernel\SportClubDbManager.SharedKernel.csproj" />
+  </ItemGroup>
+
+</Project>

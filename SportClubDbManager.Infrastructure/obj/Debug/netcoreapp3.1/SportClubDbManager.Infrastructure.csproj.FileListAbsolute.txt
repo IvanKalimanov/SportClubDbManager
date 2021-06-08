@@ -1,0 +1,14 @@
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\obj\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\obj\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.AssemblyInfo.cs
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\obj\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\bin\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.deps.json
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\bin\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.dll
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\bin\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.pdb
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\obj\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.dll
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\obj\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.pdb
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\bin\Debug\netcoreapp3.1\SportClubDbManager.Data.dll
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\bin\Debug\netcoreapp3.1\SportClubDbManager.SharedKernel.dll
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\bin\Debug\netcoreapp3.1\SportClubDbManager.Data.pdb
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\bin\Debug\netcoreapp3.1\SportClubDbManager.SharedKernel.pdb
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\obj\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Infrastructure\obj\Debug\netcoreapp3.1\SportClubDbManager.Infrastructure.csproj.CopyComplete

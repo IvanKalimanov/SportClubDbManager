@@ -1,0 +1,12 @@
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\bin\Debug\netcoreapp3.1\SportClubDbManager.Core.deps.json
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\bin\Debug\netcoreapp3.1\SportClubDbManager.Core.runtimeconfig.json
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\bin\Debug\netcoreapp3.1\SportClubDbManager.Core.runtimeconfig.dev.json
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\bin\Debug\netcoreapp3.1\SportClubDbManager.Core.dll
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\bin\Debug\netcoreapp3.1\SportClubDbManager.Core.pdb
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\obj\Debug\netcoreapp3.1\SportClubDbManager.Core.csprojAssemblyReference.cache
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\obj\Debug\netcoreapp3.1\SportClubDbManager.Core.AssemblyInfoInputs.cache
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\obj\Debug\netcoreapp3.1\SportClubDbManager.Core.AssemblyInfo.cs
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\obj\Debug\netcoreapp3.1\SportClubDbManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\obj\Debug\netcoreapp3.1\SportClubDbManager.Core.dll
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\obj\Debug\netcoreapp3.1\SportClubDbManager.Core.pdb
+C:\Users\X1CARBON\source\repos\SportClubDbManager\SportClubDbManager.Core\obj\Debug\netcoreapp3.1\SportClubDbManager.Core.genruntimeconfig.cache
